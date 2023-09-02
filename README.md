@@ -1,6 +1,6 @@
 This project is a Python-based tool designed to activate Windows 10 Enterprise LTSC. It verifies the current activation status, copies necessary files to specific directories, prompts a system restart, validates the successful copying of files, and executes the required commands to complete the activation process.
 
-##Requirements:
+## Requirements:
 
 This project requires Python 3 and the following Python libraries installed:
 
